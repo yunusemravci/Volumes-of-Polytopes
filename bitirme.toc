@@ -1,0 +1,17 @@
+\contentsline {section}{PREFACE}{viii}
+\contentsline {section}{SUMMARY}{xi}
+\contentsline {section}{\"OZET}{xii}
+\contentsline {section}{\numberline {1}INTRODUCTION}{1}
+\contentsline {subsection}{\numberline {1.1}EHRHART THEORY}{2}
+\contentsline {subsection}{\numberline {1.2}INTERPOLATION}{4}
+\contentsline {subsection}{\numberline {1.3}PROJECT DEFINITION}{6}
+\contentsline {section}{\numberline {2}PROJECT REQUIREMENTS}{8}
+\contentsline {section}{\numberline {3}PROBLEM SOLUTION APPROACH}{11}
+\contentsline {section}{\numberline {4}RESULTS}{12}
+\contentsline {section}{\numberline {5}USER MANUEL}{15}
+\contentsline {section}{References}{16}
+\contentsline {section}{\numberline {A}DOCKER FILE SOFTWARE TOOLS}{17}
+\contentsline {section}{\numberline {B}DOCKER FILE SOFTWARE UTILITIES}{18}
+\contentsline {section}{\numberline {C}VOLUMES FOR ONE LATTICE POINT}{19}
+\contentsline {section}{\numberline {D}VOLUMES FOR ALL CANDIDATES,ALL}{20}
+\contentsline {section}{\numberline {E}DILATE, BOUNDS, INEQUALITIES PART}{21}
